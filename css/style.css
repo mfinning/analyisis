@@ -6,6 +6,10 @@ Copyright 2013, Josh Cope
 /* =============================================================================
    Site Styles
    ========================================================================== */
+.container
+{
+	background:url url(../image/purty.png)
+}
 nav li
 {
  	display:inline;	
